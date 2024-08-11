@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg-custom-gradient {
+    background: linear-gradient(180deg, #150953 0%, #3b2f7e 100%);
+  }
